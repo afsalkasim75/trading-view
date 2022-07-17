@@ -1,0 +1,63 @@
+08-07-2022 02:20:17   |  INFO     | Initializing...
+08-07-2022 02:20:18   |  ERROR    | Here an error has occurred, reason: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+08-07-2022 02:20:18   |  WARNING  | The program will shut down after 10s...
+08-07-2022 02:22:20   |  INFO     | Initializing...
+08-07-2022 02:22:21   |  ERROR    | Here an error has occurred, reason: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+08-07-2022 02:22:21   |  WARNING  | The program will shut down after 10s...
+08-07-2022 02:23:12   |  INFO     | Initializing...
+08-07-2022 02:23:14   |  ERROR    | Here an error has occurred, reason: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+08-07-2022 02:23:14   |  WARNING  | The program will shut down after 10s...
+08-07-2022 02:23:34   |  INFO     | Initializing...
+08-07-2022 02:23:36   |  ERROR    | Here an error has occurred, reason: Response status "OK" expected, but "NO" received. Data: [b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)']
+08-07-2022 02:23:36   |  WARNING  | The program will shut down after 10s...
+08-07-2022 02:34:54   |  INFO     | Initializing...
+08-07-2022 02:34:56   |  INFO     | Listening to IMP server(imap-mail.outlook.com)...
+08-07-2022 16:59:40   |  INFO     | Initializing...
+08-07-2022 16:59:42   |  INFO     | Listening to IMP server(imap-mail.outlook.com)...
+08-07-2022 17:01:11   |  INFO     | Sending webhook alert<TradingView verification code>, content: 224962 is your TradingView account verification code
+
+08-07-2022 17:01:11   |  ERROR    | Sent webhook failed, reason: Invalid URL 'h': No scheme supplied. Perhaps you meant http://h?
+08-07-2022 17:03:13   |  INFO     | Sending webhook alert<Alert: Moving Average Convergence Divergence (12, 26, close, 9, EMA,
+ EMA) Crossing 142.26 on BTCUSD, 4h>, content: Moving Average Convergence Divergence (12, 26, close, 9, EMA, EMA) Crossing 142.26 on BTCUSD, 4h
+
+08-07-2022 17:03:13   |  ERROR    | Sent webhook failed, reason: Invalid URL 'h': No scheme supplied. Perhaps you meant http://h?
+08-07-2022 17:03:14   |  INFO     | Sending webhook alert<TradingView verification code>, content: 224962 is your TradingView account verification code
+
+08-07-2022 17:03:14   |  ERROR    | Sent webhook failed, reason: Invalid URL 'h': No scheme supplied. Perhaps you meant http://h?
+08-07-2022 17:05:07   |  INFO     | Sending webhook alert<Alert: { "message_type": "bot", "bot_id": 9269257,
+ "email_token": "aa1640c4-5be3-49f1-95db-7de155691e92", "delay_seconds": 0}>, content: {'message_type': 'bot', 'bot_id': 9269257, 'email_token': 'aa1640c4-5be3-49f1-95db-7de155691e92', 'delay_seconds': 0}
+08-07-2022 17:05:07   |  ERROR    | Sent webhook failed, reason: Invalid URL 'h': No scheme supplied. Perhaps you meant http://h?
+08-07-2022 17:05:07   |  INFO     | Sending webhook alert<Alert: Moving Average Convergence Divergence (12, 26, close, 9, EMA,
+ EMA) Crossing 142.26 on BTCUSD, 4h>, content: Moving Average Convergence Divergence (12, 26, close, 9, EMA, EMA) Crossing 142.26 on BTCUSD, 4h
+
+08-07-2022 17:05:07   |  ERROR    | Sent webhook failed, reason: Invalid URL 'h': No scheme supplied. Perhaps you meant http://h?
+08-07-2022 17:07:16   |  INFO     | Initializing...
+08-07-2022 17:07:17   |  INFO     | Listening to IMP server(imap-mail.outlook.com)...
+08-07-2022 17:10:15   |  INFO     | Sending webhook alert<Alert: { "message_type": "bot", "bot_id": 9269257,
+ "email_token": "aa1640c4-5be3-49f1-95db-7de155691e92", "delay_seconds": 0}>, content: {'message_type': 'bot', 'bot_id': 9269257, 'email_token': 'aa1640c4-5be3-49f1-95db-7de155691e92', 'delay_seconds': 0}
+08-07-2022 17:10:16   |  OK       | Sent webhook alert successfully!
+08-07-2022 17:10:16   |  INFO     | The whole process taken 7.158s.
+08-07-2022 17:10:16   |  INFO     | Sending webhook alert<Alert: { "message_type": "bot", "bot_id": 9269257,
+ "email_token": "aa1640c4-5be3-49f1-95db-7de155691e92", "delay_seconds": 0}>, content: {'message_type': 'bot', 'bot_id': 9269257, 'email_token': 'aa1640c4-5be3-49f1-95db-7de155691e92', 'delay_seconds': 0}
+08-07-2022 17:10:16   |  OK       | Sent webhook alert successfully!
+08-07-2022 17:10:16   |  INFO     | The whole process taken 318.918s.
+08-07-2022 17:12:14   |  INFO     | Sending webhook alert<Alert: { "message_type": "bot", "bot_id": 9269257,
+ "email_token": "aa1640c4-5be3-49f1-95db-7de155691e92", "delay_seconds": 0}>, content: {'message_type': 'bot', 'bot_id': 9269257, 'email_token': 'aa1640c4-5be3-49f1-95db-7de155691e92', 'delay_seconds': 0}
+08-07-2022 17:12:14   |  OK       | Sent webhook alert successfully!
+08-07-2022 17:12:14   |  INFO     | The whole process taken 7.763s.
+08-07-2022 17:12:14   |  INFO     | Sending webhook alert<Alert: { "message_type": "bot", "bot_id": 9269257,
+ "email_token": "aa1640c4-5be3-49f1-95db-7de155691e92", "delay_seconds": 0}>, content: {'message_type': 'bot', 'bot_id': 9269257, 'email_token': 'aa1640c4-5be3-49f1-95db-7de155691e92', 'delay_seconds': 0}
+08-07-2022 17:12:15   |  OK       | Sent webhook alert successfully!
+08-07-2022 17:12:15   |  INFO     | The whole process taken 126.452s.
+08-07-2022 17:39:29   |  ERROR    | Here an error has occurred, reason: Response status "OK" expected, but "NO" received. Data: [b'Server Unavailable. 15']
+08-07-2022 17:39:29   |  WARNING  | The program will shut down after 10s...
+08-07-2022 20:14:56   |  INFO     | Initializing...
+08-07-2022 20:14:58   |  INFO     | Listening to IMP server(imap-mail.outlook.com)...
+08-07-2022 20:15:22   |  INFO     | Sending webhook alert<Alert: { "message_type": "bot", "bot_id": 9269257,
+ "email_token": "aa1640c4-5be3-49f1-95db-7de155691e92", "delay_seconds": 0}>, content: {'message_type': 'bot', 'bot_id': 9269257, 'email_token': 'aa1640c4-5be3-49f1-95db-7de155691e92', 'delay_seconds': 0}
+08-07-2022 20:15:22   |  OK       | Sent webhook alert successfully!
+08-07-2022 20:15:22   |  INFO     | The whole process taken 9.563s.
+08-07-2022 20:15:22   |  INFO     | Sending webhook alert<Alert: { "message_type": "bot", "bot_id": 9269257,
+ "email_token": "aa1640c4-5be3-49f1-95db-7de155691e92", "delay_seconds": 0}>, content: {'message_type': 'bot', 'bot_id': 9269257, 'email_token': 'aa1640c4-5be3-49f1-95db-7de155691e92', 'delay_seconds': 0}
+08-07-2022 20:15:23   |  OK       | Sent webhook alert successfully!
+08-07-2022 20:15:23   |  INFO     | The whole process taken 80.423s.
